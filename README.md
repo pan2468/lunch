@@ -34,6 +34,14 @@
 </div>
 </details>
 
+<details>
+<summary><b>검색엔진(ElasticSearch) 적용해보기</b></summary>
+<div markdown="2">
+
+</div>
+</details>
+
+
 ### 📌 트러블 아슈
 
 
