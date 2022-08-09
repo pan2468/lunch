@@ -27,6 +27,7 @@
 <img src="https://user-images.githubusercontent.com/58936137/183662955-f4d9a369-02d6-4e27-9678-51e68b238208.png" width="500px" height="400px">
 
 ### 📌 핵심기능
++ 연관 관계 다대일 매핑
 
 ### 📌 트러블 아슈
 
